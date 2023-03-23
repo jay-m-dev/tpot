@@ -15,7 +15,7 @@ Package information: [![Python 3.7](https://img.shields.io/badge/python-3.7-blue
 </p>
 
 ---
-To try the **new** TPOT2 (*alpha*) please go [here](https://github.com/EpistasisLab/tpot2)!
+To try the ![NEW!](https://github.com/EpistasisLab/tpot/blob/master/images/NEW.gif "NEW!") TPOT2 (*alpha*) please go [here](https://github.com/EpistasisLab/tpot2)!
 
 - - - -
 
